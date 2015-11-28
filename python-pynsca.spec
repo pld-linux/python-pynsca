@@ -2,7 +2,7 @@
 Summary:	Python interface to Nagios Service Check Architecture (NSCA)
 Name:		python-%{module}
 Version:	1.5
-Release:	1
+Release:	2
 License:	MPL v1.1
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/p/pynsca/pynsca-%{version}.tar.gz
