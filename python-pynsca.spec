@@ -9,7 +9,7 @@ Source0:	https://pypi.python.org/packages/source/p/pynsca/pynsca-%{version}.tar.
 # Source0-md5:	c4c6ede5e92ea3343adb978a9b6b31f4
 URL:		https://github.com/djmitche/pynsca
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
